@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Giphy Test</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="giphy_world">Welcome to Giphy World !!</string>
+    <string name="no_data_found">No data found !!</string>
+    <string name="no_giphy_saved">You have not saved any giphy !!</string>
+    <string name="search_giphy">Search giphy with keyword</string>
+</resources>

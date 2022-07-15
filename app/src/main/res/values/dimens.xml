@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="giphy_size">200dp</dimen>
+    <dimen name="giphy_margin">5dp</dimen>
+    <dimen name="column_count">2</dimen>
+    <dimen name="text_margin">16dp</dimen>
+    <dimen name="progress_size">50dp</dimen>
+    <dimen name="textSize_medium">18sp</dimen>
+    <dimen name="margin_16">16dp</dimen>
+    <dimen name="margin_8">8dp</dimen>
+    <dimen name="cardview_radius">5dp</dimen>
+    <dimen name="margin_4">4dp</dimen>
+</resources>
